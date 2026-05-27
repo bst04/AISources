@@ -86,6 +86,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Uizard](https://uizard.io/)                  | Function: Converts sketches into interactive app prototypes using AI. Advantage: Accelerates the prototyping phase for designers and developers.                         |
 | [Autodraw](https://www.autodraw.com/)         | Function: AI-enhanced drawing tool that turns rough sketches into professional graphics. Advantage: Perfect for quick, polished designs without professional skills.       |
 | [Khroma](https://khroma.co/)                  | Function: AI tool for generating personalized color palettes for design projects. Advantage: Helps designers choose color schemes based on preferences and trends.         |
+| [PhotoRestore.ai](https://photorestore.ai)    | Function: AI-powered restoration of old and damaged photos. Advantage: Repairs scratches, fading, tears, and colorizes B&W images automatically — free trial.          |
 | [Remove.bg](https://www.remove.bg/)           | Function: AI-powered background removal for images. Advantage: Simple and fast, suitable for e-commerce, social media, and design purposes.                              |
 
 
