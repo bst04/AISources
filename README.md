@@ -64,6 +64,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Pictory](https://pictory.ai/)                   | Function: Converts text-based content into engaging videos. Advantage: Automates video creation, perfect for content marketers and educators.                                     |
 | [Runway ML](https://runwayml.com/)               | Function: AI for creative projects, including video editing, image generation, and background removal. Advantage: Accessible for artists and creators with minimal tech skills.   |
 | [CreatorSkills](https://creatorskills.co)        | Function: Marketplace of downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Advantage: Works with Claude and ChatGPT to give creators ready-made, expert-crafted prompts. |
+| [shortshort](https://www.shortshort.io)          | Function: Turns one uploaded long video (up to 3 hours) into vertical 9:16 shorts of 15-90 seconds, cut so each clip opens and closes on a complete sentence, reframed by face tracking, with word-by-word captions in four styles. Advantage: The editor and MP4 export work without an account, and credits count minutes of source video, not the number of shorts. |
 
 
 #### 4 [↑](#-content) Data Analysis  
