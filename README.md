@@ -116,4 +116,5 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Zapier AI](https://zapier.com/)               | Function: Workflow automation with AI to connect apps and streamline processes. Advantage: Saves time by automating repetitive tasks across various platforms.       |
 | [Motion](https://www.usemotion.com/)           | Function: AI-powered scheduling and task management tool. Advantage: Automatically prioritizes tasks and meetings based on your goals and deadlines.                |
 | [Superhuman](https://superhuman.com/)          | Function: AI-enhanced email client for faster communication. Advantage: Focused on productivity and email organization.                                             |
+| [PlaceCall](https://voygr.tech/placecall/)     | Function: AI agent that phones US businesses for you to book tables and appointments, check details or get quotes. Advantage: Gets through phone menus, holds and transfers and returns the outcome and transcript; usable from Claude, Codex or Cursor via MCP. |
 
