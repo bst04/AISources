@@ -37,6 +37,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [PolyCoder](https://github.com/VHellendoorn/Code-LMs) | Function: Open-source AI model trained on diverse programming languages. Advantage: Provides transparency and flexibility for developers wanting alternatives to proprietary models.                                   |
 | [DeepCode](https://www.deepcode.ai/)                  | Function: AI code review tool that finds bugs and optimizes performance. Advantage: Focuses on improving code quality and collaboration efficiency in teams.                                                           |
 | [Agent QA](https://github.com/vostride/agent-qa)      | Function: Authors and runs natural-language web and mobile regression tests. Advantage: Its CLI, MCP server, persistent test memory, and reviewable evidence help teams maintain application flows as interfaces change. Source-available under FSL-1.1-ALv2. |
+| [deed.page](https://deed.page)                        | Function: Static hosting for AI coding agents: one HTTP PUT or a call to its MCP server publishes HTML files or a folder to a permanent `https://<slug>.deed.page` URL. Advantage: No account needed on the free plan (25 sites, 25 MB each), so an agent can share a report, demo, or prototype as a live link; open-source agent skill at [deed-page-skill](https://github.com/f-o-x11/deed-page-skill). |
 
 
 #### 2 [↑](#-content) Cybersecurity  
