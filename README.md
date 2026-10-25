@@ -92,6 +92,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Autodraw](https://www.autodraw.com/)         | Function: AI-enhanced drawing tool that turns rough sketches into professional graphics. Advantage: Perfect for quick, polished designs without professional skills.       |
 | [Khroma](https://khroma.co/)                  | Function: AI tool for generating personalized color palettes for design projects. Advantage: Helps designers choose color schemes based on preferences and trends.         |
 | [Remove.bg](https://www.remove.bg/)           | Function: AI-powered background removal for images. Advantage: Simple and fast, suitable for e-commerce, social media, and design purposes.                              |
+| [APPLORE](https://applore.app/ai-app-icon-generator) | Function: AI app icon generator that can borrow the style of any of 18,000+ real App Store and Google Play icons. Advantage: Exports every iOS and Android icon size ready to ship. |
 
 
 #### 6 [↑](#-content) Education  
