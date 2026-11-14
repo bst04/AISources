@@ -116,4 +116,5 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Zapier AI](https://zapier.com/)               | Function: Workflow automation with AI to connect apps and streamline processes. Advantage: Saves time by automating repetitive tasks across various platforms.       |
 | [Motion](https://www.usemotion.com/)           | Function: AI-powered scheduling and task management tool. Advantage: Automatically prioritizes tasks and meetings based on your goals and deadlines.                |
 | [Superhuman](https://superhuman.com/)          | Function: AI-enhanced email client for faster communication. Advantage: Focused on productivity and email organization.                                             |
+| [Transcribe Video: To The Text](https://video2text.ttt.so) | Function: iPhone app that transcribes video and audio files, voice recordings and YouTube/Vimeo links, with a speaker-split view, AI summary and TXT/DOCX export. Advantage: Turns long recordings into searchable text without leaving the phone; free trial minutes, then optional subscription. |
 
