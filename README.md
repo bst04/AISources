@@ -116,4 +116,5 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Zapier AI](https://zapier.com/)               | Function: Workflow automation with AI to connect apps and streamline processes. Advantage: Saves time by automating repetitive tasks across various platforms.       |
 | [Motion](https://www.usemotion.com/)           | Function: AI-powered scheduling and task management tool. Advantage: Automatically prioritizes tasks and meetings based on your goals and deadlines.                |
 | [Superhuman](https://superhuman.com/)          | Function: AI-enhanced email client for faster communication. Advantage: Focused on productivity and email organization.                                             |
+| [No Stairs Please](https://nostairsplease.com/mcp) | Function: Live music venue directory and MCP server for independent bands and booking agents (3,400+ under-400-capacity rooms). Advantage: Surfaces payout terms, stage dimensions, and booking contacts directly inside AI assistants. |
 
