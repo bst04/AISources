@@ -67,6 +67,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Runway ML](https://runwayml.com/)               | Function: AI for creative projects, including video editing, image generation, and background removal. Advantage: Accessible for artists and creators with minimal tech skills.   |
 | [CreatorSkills](https://creatorskills.co)        | Function: Marketplace of downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Advantage: Works with Claude and ChatGPT to give creators ready-made, expert-crafted prompts. |
 | [WarmQuant](https://warmquant.com/) | Function: AI English drafting from notes or text with writing angles and author and reader personas. Advantage: Users can edit and save generated drafts for later revision. |
+| [Wavegrain](https://wavegrain.com/) | Function: Curated TikTok slideshows and Instagram carousels for your brand on autopilot, written and designed from your brand and your photos. Advantage: Schedules and posts them for you, and AI agents can use it through an MCP server. |
 
 
 #### 4 [↑](#-content) Data Analysis  
